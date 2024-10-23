@@ -1,0 +1,6 @@
+окт. 24, 2024 12:35:41 AM java_labs.Lab4.t3.EmailValidator logError
+SEVERE: Недопустимый формат email: invalid-email
+окт. 24, 2024 12:35:41 AM java_labs.Lab4.t3.EmailValidator logError
+SEVERE: Недопустимый формат email: another.example@
+окт. 24, 2024 12:35:41 AM java_labs.Lab4.t3.EmailValidator logError
+SEVERE: Недопустимый формат email: test@example
